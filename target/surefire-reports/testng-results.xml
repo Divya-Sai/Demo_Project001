@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="demo001" duration-ms="9851" started-at="2021-04-15T14:35:22 BST" finished-at="2021-04-15T14:35:32 BST">
+    <groups>
+    </groups>
+    <test name="democlass" duration-ms="8825" started-at="2021-04-15T14:35:22 BST" finished-at="2021-04-15T14:35:31 BST">
+      <class name="demo001.demoPages.Democlass">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:demo001.demoPages.Democlass@2a556333]" name="setUp" duration-ms="8752" started-at="2021-04-15T14:35:22 BST" finished-at="2021-04-15T14:35:31 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- demo001.demoPages.Democlass -->
+    </test> <!-- democlass -->
+    <test name="democlass1" duration-ms="9851" started-at="2021-04-15T14:35:22 BST" finished-at="2021-04-15T14:35:32 BST">
+      <class name="demo001.demoPages.Democlass">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:demo001.demoPages.Democlass@4abdb505]" name="setUp" duration-ms="9787" started-at="2021-04-15T14:35:22 BST" finished-at="2021-04-15T14:35:32 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- demo001.demoPages.Democlass -->
+    </test> <!-- democlass1 -->
+  </suite> <!-- demo001 -->
+</testng-results>
